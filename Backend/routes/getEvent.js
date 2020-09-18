@@ -24,7 +24,7 @@ router.get('/:title', async (req, res) => {
 		const data = await event.findOne({ title });
 		res.send({
 			msg: 'data fetched successfully',
-			data,
+			data
 		});
 	} catch (err) {
 		console.log(err);
