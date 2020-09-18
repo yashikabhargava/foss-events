@@ -20,6 +20,6 @@ app.use(express.json());
 // app.use("/signup",require("./routes/config/signup"));
 // app.use("/login",require("./routes/config/login"));
 app.use("/addevent",require("./routes/addEvent"));
-// app.use(require("./routes/admin_routes"));
+app.use("/event",require("./routes/getEvent"));
 
 app.listen(5000, console.log(`listening on port 5000`));
