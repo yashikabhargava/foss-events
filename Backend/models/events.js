@@ -6,7 +6,11 @@ const eventsSchema = mongoose.Schema({
         default: null
     },
     date: {
-        type: date,
+        type: Date,
+        required: true
+    },
+    website: {
+        type: String,
         required: true
     },
     details: {
@@ -14,3 +18,5 @@ const eventsSchema = mongoose.Schema({
         required: true
     }
 })
+ 
+module.exports = mongoose.model('events',eventsSchema);
