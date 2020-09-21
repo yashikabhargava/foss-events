@@ -1,7 +1,9 @@
 const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+dotenv.config({ path: '.env' });
 
 function db(){
-    mongoose.connect("mongodb://localhost/foss-events",{
+    mongoose.connect(process.env.DB_CONNECT,{
         useNewUrlParser: true,
         useFindAndModify: false,
         useUnifiedTopology: true
