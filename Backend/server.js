@@ -14,7 +14,7 @@ const app = new express();
 
 
 // connecting mongodb
-// require("./db/db")();
+require("./db/db")();
 
 //middlewares
 app.use(cors());
