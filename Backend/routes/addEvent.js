@@ -1,8 +1,9 @@
 const router = require('express').Router();
-const mongoose = require('mongoose');
 const events = require('../models/events');
+const auth = require('./users/auth')
 
-router.post('/', async (req, res) => {
+
+router.post('/',auth, async (req, res) => {
     try{
         const { 
             title, 

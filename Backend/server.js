@@ -5,7 +5,7 @@ const passport = require('passport')
 const cookieSession = require('cookie-session')
 require('./routes/users/passport')
 const dotenv = require("dotenv");
-
+const PORT = process.env.PORT || 3000
 
 dotenv.config({ path: 'var.env' });
 
@@ -45,4 +45,11 @@ app.get('/google',
   app.get('/failed', (req,res) => res.send('You failed to log in'));
 
 
-app.listen(process.env.PORT, console.log(`listening on port ${process.env.PORT}`));
+//logout route
+app.get('/logout', (req, res) => {
+  req.session = null;
+  req.logout();
+  res.redirect('/event');
+})
+
+app.listen(PORT, console.log(`listening on port ${PORT}`));
