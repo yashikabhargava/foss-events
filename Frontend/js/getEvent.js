@@ -20,7 +20,7 @@ fetch("../data/events.json")
         rel: "noopener noreferrer",
       });
       let link = document.createElement("h6");
-      link.innerText = 'Go to website';
+      link.innerText = "Go to websiteinde";
       eventLink.appendChild(link);
       let date = document.createElement("p");
       date.innerText = res[data].date;
