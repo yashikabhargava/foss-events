@@ -1,14 +1,18 @@
 [
-    {
-        "title":"Test 1",
-        "website":"yourlink.com",
-        "date":"dd/mm/yy",
-        "description":"This is a test event."
-    },
-    {
-        "title":"Test 2",
-        "website":"example.com",
-        "date":"dd/mm/yy",
-        "description":"This is a test event."
-    }
+  {
+    "title": "Test 1",
+    "website": "yourlink.com",
+    "start": "dd/mm/yy",
+    "end": "dd/mm/yy",
+    "organisation": "DSC JSS",
+    "location": "Online"
+  },
+  {
+    "title": "Test 2",
+    "website": "example.com",
+    "start": "dd/mm/yy",
+    "end": "dd/mm/yy",
+    "organisation": "DSC JSS",
+    "location": "Online"
+  }
 ]
