@@ -1,4 +1,4 @@
 app.json
-var.env
+.env
 node_modules
 Procfile
