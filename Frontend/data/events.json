@@ -1,7 +1,13 @@
 [
     {
         "title":"Test 1",
-        "website":"Test Link",
+        "website":"yourlink.com",
+        "date":"dd/mm/yy",
+        "description":"This is a test event."
+    },
+    {
+        "title":"Test 2",
+        "website":"example.com",
         "date":"dd/mm/yy",
         "description":"This is a test event."
     }
