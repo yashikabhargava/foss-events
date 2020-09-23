@@ -7,7 +7,7 @@
 - **Safari**:	version 5.2 and up
 - **Internet Explorer/Edge**:	version 8 and up
 - **Opera**:	version 9 and up
-> **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now.
+<!-- > **Note**: Support for modern mobile browsers is experimental. The website is not responsive in mobile devices until now. -->
 
 ## Technology Stack used:
 
@@ -27,3 +27,12 @@
 | --------------- | --------------- | --------------- |
 | 1. | [master](https://github.com/DSC-JSS-NOIDA/foss-events/tree/master) | contains the frontend code  |
 | 2. | [backend](https://github.com/DSC-JSS-NOIDA/foss-events/tree/backend) | contains all backend code |
+
+#### Steps for Contributing
+- **Frontend**: 
+- **Backend**:
+
+## Resources
+- **Git and Github**:
+- **Frontend**:
+- **Backend**: [Node.js](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
