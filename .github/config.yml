@@ -1,0 +1,13 @@
+updateDocsComment: >
+  Thanks for opening this pull request! The maintainers of this repository would appreciate it if you would update some of our documentation based on your changes.
+requestInfoReplyComment: >
+  We would appreciate it if you could provide us with more info about this issue/pr!
+requestInfoLabelToAdd: request-more-info
+
+newPRWelcomeComment: >
+  Thanks so much for opening your first PR here!
+firstPRMergeComment: >
+  Congrats on merging your first pull request here! :tada: How awesome!
+  [![Congratulations](https://camo.githubusercontent.com/58151d96855b52518ad312c714ff3713fff228c0/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966)]
+newIssueWelcomeComment: >
+  Thanks for opening this issue, a maintainer will get back to you shortly!
