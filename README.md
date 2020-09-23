@@ -45,7 +45,7 @@ $ cd Backend
 - You can click [here](https://www.youtube.com/watch?v=KKyag6t98g8&t=792s) to learn how to connect atlas to you project
 - Paste the connection string in the `.env.example` file in the `DB_CONNECT` variable
 - Rename the file `.env.example` to `.env` 
-- Install npm modules using:
+- Install node dependencies using:
 ```
 $ npm install
 ```
