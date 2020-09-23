@@ -38,7 +38,7 @@ $ cd foss-events
 ```
 - Change Branch using:
 ```
-$ git checkout master
+$ git checkout backend
 $ cd Backend
 ```
 - Get connection string from [Mongo Atlas](https://www.mongodb.com/cloud/atlas) by creating a cluster or you can also use your locally installed mongodb
@@ -49,7 +49,7 @@ $ cd Backend
 ```
 $ npm install
 ```
-- To start the server type:
+- To start the server, type:
 ```
 $ node server
 ```
