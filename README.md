@@ -29,25 +29,30 @@
 | 2. | [backend](https://github.com/DSC-JSS-NOIDA/foss-events/tree/backend) | contains all backend code |
 
 #### Steps for Contributing
-<strong>Frontend</strong>
+<strong>Frontend</strong><br>
 <strong>Backend</strong>
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
-git clone https://github.com/DSC-JSS-NOIDA/foss-events.git
-cd foss-events
+$ git clone https://github.com/DSC-JSS-NOIDA/foss-events.git
+$ cd foss-events
 ```
 - Change Branch using:
 ```
-git checkout master
-cd Backend
-```
-- Install npm modules using:
-```
-npm install
+$ git checkout master
+$ cd Backend
 ```
 - Get connection string from [Mongo Atlas](https://www.mongodb.com/cloud/atlas) by creating a cluster or you can also use your locally installed mongodb
 - You can click [here](https://www.youtube.com/watch?v=KKyag6t98g8&t=792s) to learn how to connect atlas to you project
-
+- Paste the connection string in the `.env.example` file in the `DB_CONNECT` variable
+- Rename the file `.env.example` to `.env` 
+- Install npm modules using:
+```
+$ npm install
+```
+- To start the server type:
+```
+$ node server
+```
 ## Resources
 - **Git and Github**:
 - **Frontend**:
