@@ -25,5 +25,5 @@
 
 | S.No. | Branch Name | Purpose |
 | --------------- | --------------- | --------------- |
-| 1. | [master](https://github.com/rajat2502/CodeINN/tree/master) | contains the frontend code  |
-| 2. | [backend](https://github.com/rajat2502/CodeINN/tree/backend) | contains all backend code |
+| 1. | [master](https://github.com/DSC-JSS-NOIDA/foss-events/tree/master) | contains the frontend code  |
+| 2. | [backend](https://github.com/DSC-JSS-NOIDA/foss-events/tree/backend) | contains all backend code |
