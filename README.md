@@ -33,7 +33,7 @@
 <strong>Backend</strong>
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
-$ git clone https://github.com/DSC-JSS-NOIDA/foss-events.git
+$ git clone https://github.com/your-username/foss-events.git
 $ cd foss-events
 ```
 - Change Branch using:
