@@ -92,7 +92,7 @@ $ git commit -m "made changes"
 <strong>Currently working Routes</strong>
   - Get Routes:
       - /event - Displays all the events
-      - /event/:title - Displays the deatils of the specific event
+      - /event/:title - Displays the details of the specific event
   - Post Routes:
       - /users/login - Login Route
       - /users/signup - Signup Route
