@@ -47,6 +47,8 @@ $ cd foss-events/Frontend
 - Push to your fork of the repository , navigate to original repository and make a pull request.<br>
 
 <strong>Backend</strong>
+> **Note**: You must have Nodejs installed 
+
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
 $ git clone https://github.com/your-username/foss-events.git
