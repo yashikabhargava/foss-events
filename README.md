@@ -1,5 +1,9 @@
 # Foss-Events
+<strong>Foss-events displays Open source events going around you. You can add your own event and let others attend it!!!</strong>
 
+### Links
+- **Frontend**:
+- **Backend**: https://foss-events.herokuapp.com
 
 ## Browser Support
 - **Firefox**:	version 4 and up
@@ -75,7 +79,24 @@ $ node server
 ```
 ![start](https://i.postimg.cc/RCbf8Pn6/Screenshot-165.png)
 
+- Make changes to the code(for ex- add an update route) and save your changes
+- Commit your changes using:
+```
+$ git commit -m "made changes"
+```
+- Push the changes to the forked repository
+- Navigate to the original repository and make a pull request
+
+<strong>Currently working Routes</strong>
+  - Get Routes:
+      - /event - Displays all the events
+      - /event/:title - Displays the deatils of the specific event
+  - Post Routes:
+      - /users/login - Login Route
+      - /users/signup - Signup Route
+      - /addevent - Route for adding an event
+
 ## Resources
-- **Git and Github**:
+- **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - **Frontend**:
-- **Backend**: [Node.js](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+- **Backend**: [Node.js for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
