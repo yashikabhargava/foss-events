@@ -2,7 +2,7 @@
 <strong>Foss-events displays Open source events going around you. You can add your own event and let others attend it!!!</strong>
 
 ### Links
-- **Frontend**:
+- **Frontend**: https://fossevents.netlify.app/
 - **Backend**: https://foss-events.herokuapp.com
 
 ## Browser Support
@@ -98,5 +98,5 @@ $ git commit -m "made changes"
 
 ## Resources
 - **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- **Frontend**:
+- **Frontend**: [Frontend development for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH2k1SANK5rvq_EAgUKTPoK)
 - **Backend**: [Node.js for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
