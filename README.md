@@ -1,5 +1,9 @@
+<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/42115530/94295926-a5741880-ff7f-11ea-890b-39ad20ac0f21.png" height='150' width='350'></div>
+
 # Foss-Events
-<strong>Foss-events displays Open source events going around you. You can add your own event and let others attend it!!!</strong>
+A simple website with a collection of open-source events happening across the globe. This is a beginner-friendly repository that helps you learn git and contribute to web projects.
+
+[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/0)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/0)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/1)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/1)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/2)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/2)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/3)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/3)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/4)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/4)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/5)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/5)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/6)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/6)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/7)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/7)
 
 ### Links
 - **Frontend**: https://fossevents.netlify.app/
@@ -91,14 +95,30 @@ $ git commit -m "made changes"
 
 <strong>Currently working Routes</strong>
   - Get Routes:
-      - /event - Displays all the events
-      - /event/:title - Displays the details of the specific event
+      - `/event` - Displays all the events
+      - `/event/:title` - Displays the details of the specific event
   - Post Routes:
-      - /users/login - Login Route
-      - /users/signup - Signup Route
-      - /addevent - Route for adding an event
+      - `/users/login` - Login Route
+      - `/users/signup` - Signup Route
+      - `/addevent` - Route for adding an event
 
 ## Resources
 - **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - **Frontend**: [Frontend development for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH2k1SANK5rvq_EAgUKTPoK)
 - **Backend**: [Node.js for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+
+### Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+
+#### Happy?? Star ⭐ this Repo. 🤩
+
+#### Check your Hacktoberfest Contribution status at: <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
+
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
+
+> Made By DSC JSS NOIDA with ❤️
+<br><br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
