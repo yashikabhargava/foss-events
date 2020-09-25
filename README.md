@@ -1,6 +1,13 @@
 <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/42115530/94295926-a5741880-ff7f-11ea-890b-39ad20ac0f21.png" height='150' width='350'></div>
 
+
 # Foss-Events
+
+[![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/foss-events)](https://github.com/DSC-JSS-NOIDA/foss-events/issues)
+[![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/foss-events)](https://github.com/DSC-JSS-NOIDA/foss-events/pulls)
+[![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
+[![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA/foss-events?style=social)](https://github.com/DSC-JSS-NOIDA/foss-events) [![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA/foss-events?style=social)](https://github.com/DSC-JSS-NOIDA/foss-events) [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/foss-events?style=social)](https://github.com/DSC-JSS-NOIDA/foss-events) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN) [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FDSC-JSS-NOIDA%2Ffoss-events)](https://twitter.com/DSCJSSATEN)
+
 A simple website with a collection of open-source events happening across the globe. This is a beginner-friendly repository that helps you learn git and contribute to web projects.
 
 [![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/0)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/0)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/1)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/1)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/2)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/2)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/3)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/3)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/4)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/4)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/5)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/5)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/6)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/6)[![](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/images/7)](https://sourcerer.io/fame/PragatiVerma18/DSC-JSS-NOIDA/foss-events/links/7)
@@ -29,6 +36,9 @@ A simple website with a collection of open-source events happening across the gl
 - **Database**: MongoDb
 - **Hosting**: Heroku, Netlify
 
+## Slack Channel
+[![chat on slack](https://img.shields.io/badge/chat-on%20slack-brightgreen)](https://join.slack.com/t/dschackfest2020/shared_invite/zt-hvmr02i9-kApLVOuvUHIolKwBbk4Vsg)
+
 ### GitHub Repository Structure
 
 | S.No. | Branch Name | Purpose |
@@ -38,6 +48,7 @@ A simple website with a collection of open-source events happening across the gl
 
 ## Get Started
 ### Steps for Contributing
+
 <strong>Frontend</strong>
 - Fork and clone the Repo by typing the following commands in the terminal 
 ```
@@ -119,25 +130,40 @@ $ git commit -m "made changes"
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
 
 > Made By DSC JSS NOIDA with ❤️
+
+
 <br><br>
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
-
-
-<!-- <table>
-  <tr>
-    <td> <img src="https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png" alt="dscjss"></td></tr>
-  <tr><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td></tr>
-  </table> -->
-  
-  [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/foss-events)](https://github.com/DSC-JSS-NOIDA/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
-
-|                                                                                         <a href="https://github.com/DSC-JSS-NOIDA/"><img src="https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png"  height=150px /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[DSC JSS NOIDA](https://www.linkedin.com/company/dsc-jssaten/)**                                                                                                                                        |
-| <a href="https://twitter.com/DSCJSSATEN"><img src="https://rmutrecht.org/wp-content/uploads/sites/259/2017/07/logo-twitter.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/company/dsc-jssaten/"><img src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="32px" height="32px"></a> |
+                                                   
 
 > **_Need help?_** 
 > **_Feel free to contact us @ [dscjssnoida@gmail.com](mailto:idscjssnoida@gmail.com?Subject=DSCHackFest2020)_**
 
-[![GitHub followers](https://img.shields.io/github/followers/DSC-JSS-NOIDA.svg?label=Follow%20@DSC-JSS-NOIDA&style=social)](https://github.com/DSC-JSS-NOIDA/) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
+
+## Connect with us  
+<div align="center">
+ <a href="https://dscjss.in/"><img src="https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png"  height=100px /></a> <br><br> 
+<a href="https://github.com/DSC-JSS-NOIDA" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/DSCJSSATEN" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/company/dsc-jssaten/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/dscjssnoida/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/dscjssaten/?igshid=9ubqtp1ssqsi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/dsc-jss-noida" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.youtube.com/channel/UCkELk5JFDceaSf8pBa19kDQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+</div> 
