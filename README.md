@@ -122,3 +122,22 @@ $ git commit -m "made changes"
 <br><br>
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/foss-events)
+
+
+<!-- <table>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png" alt="dscjss"></td></tr>
+  <tr><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td><td><a href=""><img src="" alt=""></a></td></tr>
+  </table> -->
+  
+  [![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/foss-events)](https://github.com/DSC-JSS-NOIDA/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
+
+|                                                                                         <a href="https://github.com/DSC-JSS-NOIDA/"><img src="https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png"  height=150px /></a>                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                        **[DSC JSS NOIDA](https://www.linkedin.com/company/dsc-jssaten/)**                                                                                                                                        |
+| <a href="https://twitter.com/DSCJSSATEN"><img src="https://rmutrecht.org/wp-content/uploads/sites/259/2017/07/logo-twitter.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/company/dsc-jssaten/"><img src="https://www.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" width="32px" height="32px"></a> |
+
+> **_Need help?_** 
+> **_Feel free to contact us @ [dscjssnoida@gmail.com](mailto:idscjssnoida@gmail.com?Subject=DSCHackFest2020)_**
+
+[![GitHub followers](https://img.shields.io/github/followers/DSC-JSS-NOIDA.svg?label=Follow%20@DSC-JSS-NOIDA&style=social)](https://github.com/DSC-JSS-NOIDA/) [![Twitter Follow](https://img.shields.io/twitter/follow/DSCJSSATEN?style=social)](https://twitter.com/DSCJSSATEN)
