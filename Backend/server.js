@@ -3,7 +3,7 @@ const morgan = require("morgan");
 const dotenv = require("dotenv");
 const PORT = process.env.PORT || 3000
 
-dotenv.config({ path: 'var.env' });
+dotenv.config({ path: '.env' });
 
 
 const app = new express();
@@ -18,8 +18,7 @@ app.use(express.json());
 
 
 //routes
-app.use("/addevent",require("./routes/addEvent"));
-app.use("/event",require("./routes/getEvent"));
+app.use("/event",require("./routes/EventRoutes"));
 app.use("/users/login",require("./routes/users/login"))
 app.use("/users/signup",require("./routes/users/signup"))
 
