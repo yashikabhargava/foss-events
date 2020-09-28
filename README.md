@@ -82,8 +82,8 @@ $ cd Backend
 
 - Get connection string from [Mongo Atlas](https://www.mongodb.com/cloud/atlas) by creating a cluster or you can also use your locally installed mongodb
 - You can click [here](https://www.youtube.com/watch?v=KKyag6t98g8&t=792s) to learn how to connect atlas to you project
-- Paste the connection string in the `.env.example` file in the `DB_CONNECT` variable
-- Rename the file `.env.example` to `.env` 
+- Create a new file named `.env` in the Backend folder and copy the format of `.env.example` file 
+- Paste the connection string in the `.env` file in the `DB_CONNECT` variable
 - Install node dependencies using:
 ```
 $ npm install
