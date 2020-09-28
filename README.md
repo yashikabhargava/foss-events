@@ -111,7 +111,7 @@ $ git commit -m "made changes"
   - Post Routes:
       - `/users/login` - Login Route
       - `/users/signup` - Signup Route
-      - `/addevent` - Route for adding an event
+      - `/event/addevent` - Route for adding an event
 
 ## Resources
 - **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
