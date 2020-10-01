@@ -97,10 +97,14 @@ $ node server
 ```
 ![start](https://i.postimg.cc/RCbf8Pn6/Screenshot-165.png)
 
-- Make changes to the code(for ex- add an update route) and save your changes
+- Make changes to the code(for ex- add an update route)
+- Stage your changes using:
+```
+$ git add .
+```
 - Commit your changes using:
 ```
-$ git commit -m "made changes"
+$ git commit -m "add any comment"
 ```
 - Push the changes to the forked repository
 - Navigate to the original repository and make a pull request
