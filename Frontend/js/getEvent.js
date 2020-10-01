@@ -42,3 +42,23 @@ fetch("./Frontend/data/events.json")
       cardContainer.appendChild(emptyDiv);
     }
   });
+
+// search an event
+let search = document.querySelector('input');
+search.addEventListener('keyup', searchTerm);
+
+//function to search the event
+function searchTerm(e){
+  let eventList = document.querySelectorAll('.empty_div');
+  let input = e.target.value.toLowerCase();
+  Array.from(eventList).forEach( eventItem => {
+    let toSearch = eventItem.childNodes[0].children[0].childNodes[0].innerText;
+    if( toSearch.toLowerCase().indexOf(input) != -1){
+      eventItem.classList.add('d-block');
+    }
+    else{
+      eventItem.classList.add('d-none');
+      eventItem.classList.remove('d-block');
+    }
+  })
+}
