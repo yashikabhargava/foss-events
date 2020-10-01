@@ -18,7 +18,7 @@ fetch("../data/events.json")
       startDate.innerHTML = `<b>Starts:</b> ${res[data].start}`;
       let endDate = document.createElement("span");
       endDate.className = "date";
-      endDate.innerHTML = `<b>Ends:</b> ${res[data].start}`;
+      endDate.innerHTML = `<b>Ends:</b> ${res[data].end}`;
       let eventDetails = document.createElement("div");
       eventDetails.className = "event_details";
       let eventLink = document.createElement("a");
@@ -26,7 +26,7 @@ fetch("../data/events.json")
         href: `https://${res[data].website}`,
         target: "_blank",
         rel: "noopener noreferrer",
-        className:'btn btn-primary link'
+        className: "btn btn-primary link",
       });
       let link = document.createElement("h6");
       link.innerText = "More Info";
@@ -36,7 +36,7 @@ fetch("../data/events.json")
       let loc = document.createElement("h5");
       loc.className = "location";
       loc.innerText = res[data].location;
-      eventDetails.append(startDate, endDate, organisation, loc,eventLink);
+      eventDetails.append(startDate, endDate, organisation, loc, eventLink);
       eventCard.append(eventTitle, eventDetails);
       emptyDiv.appendChild(eventCard);
       cardContainer.appendChild(emptyDiv);
