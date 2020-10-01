@@ -15,6 +15,14 @@
     "organisation": "DSC JSS",
     "location": "Online"
   }
- 
+ ,
+ {
+  "title": "Test 3",
+  "website": "example.com",
+  "start": "dd/mm/yy",
+  "end": "dd/mm/yy",
+  "organisation": "DSC JSS",
+  "location": "Online"
+}
 ]
 
