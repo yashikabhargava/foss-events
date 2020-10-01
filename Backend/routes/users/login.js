@@ -18,7 +18,7 @@ router.post('/', async (req, res) => {
 
 			//checking if the password is correct or not
 			if (exist === true) {
-				let token = await jwt.sign({ email: data.email }, '123');
+				let token = await jwt.sign({ email: data.email }, '123', {expiresIn:"15m"});
 				res.send({
 					message: 'login successful',
 					token: token,
