@@ -1,5 +1,5 @@
 // Fetch data from events.json file
-fetch("../data/events.json")
+fetch("../Frontend/data/events.json")
   .then((res) => res.json())
   .then((res) => {
     let cardContainer = document.getElementsByClassName("card-container")[0];
