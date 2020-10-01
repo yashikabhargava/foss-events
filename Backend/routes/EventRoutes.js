@@ -79,7 +79,21 @@ router.post('/addroom',auth, async (req, res) => {
 
 //Delete Routes
 //All the delete routes will be written here
-
+router.delete('/:title', async (req, res) => {
+	try {
+		const title = req.params.title;
+        const data = await event.findOne({ title });
+        data.remove({});
+		res.send({
+			msg: 'event deleted successfully',
+		});
+	} catch (err) {
+		console.log(err);
+		res.status(500).send({
+			message: 'something went wrong',
+		});
+	}
+});
 
 
 module.exports = router;
