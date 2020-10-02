@@ -54,11 +54,10 @@ function searchTerm(e){
   Array.from(eventList).forEach( eventItem => {
     let toSearch = eventItem.childNodes[0].children[0].childNodes[0].innerText;
     if( toSearch.toLowerCase().indexOf(input) != -1){
-      eventItem.classList.add('d-block');
+      eventItem.style.display = 'block';
     }
     else{
-      eventItem.classList.add('d-none');
-      eventItem.classList.remove('d-block');
+      eventItem.style.display = 'none';
     }
   })
 }
