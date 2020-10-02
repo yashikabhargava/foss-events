@@ -75,11 +75,9 @@ $ cd foss-events
 ![fork](https://i.postimg.cc/cHx44NPx/Screenshot-152.png)
 
 
+<hr>
 
-
-![clone](https://i.postimg.cc/qqcPttKW/Screenshot-154.png)
-
-
+![clone](https://i.postimg.cc/qqcPttKW/Screenshot-154.png)<hr>
 
 
 ![clone](https://i.postimg.cc/T31sxNtz/Screenshot-162.png)
