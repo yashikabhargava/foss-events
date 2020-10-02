@@ -56,9 +56,11 @@ $ git clone https://github.com/your-username/foss-events.git
 $ cd foss-events/Frontend
 ```
 - Open this folder in your favourite IDE.  <br>
+- Run `npm install -g live-server`.<br>
 - Run `git pull` command to sync with remote repo.<br>
 - Move to `data` folder and open `events.json` file.<br>
 - Now to add an event to website, add an object with keys same as listed in existing objects in the file.<br>
+- Run `live-server` for starting server.
 - Save and commit your code.<br>
 - Push to your fork of the repository , navigate to original repository and make a pull request.<br>
 
