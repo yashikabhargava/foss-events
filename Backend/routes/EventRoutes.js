@@ -46,7 +46,7 @@ router.get("/:title", async (req, res) => {
 router.post("/addroom", auth, async (req, res) => {
   try {
     const { title, date, website, details } = req.body;
-    const newEvent = new events({
+    const newEvent = new event({
       title,
       date,
       website,
