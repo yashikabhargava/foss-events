@@ -15,9 +15,10 @@ body {
 
 .empty_div {
     position: relative;
+    transition: all 0.5s ease;
 }
 
-.event_card {
+  .event_card {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -70,7 +71,8 @@ body {
     transition: all 0.5s ease;
 }
 
-.event_title {
+
+  .event_title {
     font-weight: bold;
     font-size: 1.5rem;
     min-height: 5rem;
