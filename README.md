@@ -56,9 +56,11 @@ $ git clone https://github.com/your-username/foss-events.git
 $ cd foss-events/Frontend
 ```
 - Open this folder in your favourite IDE.  <br>
+- Run `npm install -g live-server`.<br>
 - Run `git pull` command to sync with remote repo.<br>
 - Move to `data` folder and open `events.json` file.<br>
 - Now to add an event to website, add an object with keys same as listed in existing objects in the file.<br>
+- Run `live-server` for starting server.
 - Save and commit your code.<br>
 - Push to your fork of the repository , navigate to original repository and make a pull request.<br>
 
@@ -71,7 +73,13 @@ $ git clone https://github.com/your-username/foss-events.git
 $ cd foss-events
 ```
 ![fork](https://i.postimg.cc/cHx44NPx/Screenshot-152.png)
-![clone](https://i.postimg.cc/qqcPttKW/Screenshot-154.png)
+
+
+<hr>
+
+![clone](https://i.postimg.cc/qqcPttKW/Screenshot-154.png)<hr>
+
+
 ![clone](https://i.postimg.cc/T31sxNtz/Screenshot-162.png)
 
 - Change Branch using:
@@ -106,7 +114,10 @@ $ git add .
 ```
 $ git commit -m "add any comment"
 ```
-- Push the changes to the forked repository
+- Push the changes to the forked repository using:
+```
+$ git push 
+```
 - Navigate to the original repository and make a pull request
 
 <strong>Currently working Routes</strong>
