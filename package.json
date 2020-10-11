@@ -1,0 +1,23 @@
+{
+  "name": "foss-events",
+  "version": "1.0.0",
+  "description": "\"foss-events1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shruti3004/foss-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shruti3004/foss-events/issues"
+  },
+  "homepage": "https://github.com/Shruti3004/foss-events#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
