@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shruti3004/foss-events.git"
+    "url": "git+https://github.com/DSC-JSS-NOIDA/foss-events.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Shruti3004/foss-events/issues"
+    "url": "https://github.com/DSC-JSS-NOIDA/foss-events/issues"
   },
-  "homepage": "https://github.com/Shruti3004/foss-events#readme",
+  "homepage": "https://github.com/DSC-JSS-NOIDA/foss-events#readme",
   "dependencies": {
     "live-server": "^1.2.1"
   }
