@@ -46,5 +46,13 @@
     "end": "18/10/20",
     "organisation": "Google",
     "location": "Online"
+  },
+    {
+    "title": "All Things Open",
+    "website": "2020.allthingsopen.org",
+    "start": "19/10/20",
+    "end": "20/10/20",
+    "organisation": "All Things Open",
+    "location": "Online"
   }
 ]
