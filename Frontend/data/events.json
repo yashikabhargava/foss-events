@@ -54,5 +54,13 @@
     "end": "20/10/20",
     "organisation": "All Things Open",
     "location": "Online"
-  }
+  },
+    {
+    "title": "GIRLSCRIPT SUMMER OF CODE",
+    "website": "https://gssoc.girlscript.tech/",
+    "start": "01/03/2021",
+    "end": "31/05/2021",
+    "organisation": "GirlScript Foundation",
+    "location": "Online"
+  },
 ]
