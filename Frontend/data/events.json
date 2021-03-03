@@ -47,12 +47,21 @@
     "organisation": "Google",
     "location": "Online"
   },
-    {
+  {
     "title": "All Things Open",
     "website": "2020.allthingsopen.org",
     "start": "19/10/20",
     "end": "20/10/20",
     "organisation": "All Things Open",
     "location": "Online"
+  },
+  {
+    "title": "Rails Girls Summer of Code",
+    "website": "railsgirlssummerofcode.org",
+    "start": "01/07/20",
+    "end": "30/09/20",
+    "organisation": "Travis Foundation",
+    "location": "Online"
   }
+
 ]
